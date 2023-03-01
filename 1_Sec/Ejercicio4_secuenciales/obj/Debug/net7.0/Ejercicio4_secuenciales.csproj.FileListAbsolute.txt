@@ -1,0 +1,15 @@
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio4_secuenciales\obj\Debug\net7.0\Ejercicio4_secuenciales.csproj.AssemblyReference.cache
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio4_secuenciales\obj\Debug\net7.0\Ejercicio4_secuenciales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio4_secuenciales\obj\Debug\net7.0\Ejercicio4_secuenciales.AssemblyInfoInputs.cache
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio4_secuenciales\obj\Debug\net7.0\Ejercicio4_secuenciales.AssemblyInfo.cs
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio4_secuenciales\obj\Debug\net7.0\Ejercicio4_secuenciales.csproj.CoreCompileInputs.cache
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio4_secuenciales\bin\Debug\net7.0\Ejercicio4_secuenciales.exe
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio4_secuenciales\bin\Debug\net7.0\Ejercicio4_secuenciales.deps.json
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio4_secuenciales\bin\Debug\net7.0\Ejercicio4_secuenciales.runtimeconfig.json
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio4_secuenciales\bin\Debug\net7.0\Ejercicio4_secuenciales.dll
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio4_secuenciales\bin\Debug\net7.0\Ejercicio4_secuenciales.pdb
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio4_secuenciales\obj\Debug\net7.0\Ejercicio4_secuenciales.dll
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio4_secuenciales\obj\Debug\net7.0\refint\Ejercicio4_secuenciales.dll
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio4_secuenciales\obj\Debug\net7.0\Ejercicio4_secuenciales.pdb
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio4_secuenciales\obj\Debug\net7.0\Ejercicio4_secuenciales.genruntimeconfig.cache
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio4_secuenciales\obj\Debug\net7.0\ref\Ejercicio4_secuenciales.dll

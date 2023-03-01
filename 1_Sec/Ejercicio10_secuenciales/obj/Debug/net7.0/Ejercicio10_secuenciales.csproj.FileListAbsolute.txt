@@ -1,0 +1,15 @@
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio10_secuenciales\bin\Debug\net7.0\Ejercicio10_secuenciales.exe
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio10_secuenciales\bin\Debug\net7.0\Ejercicio10_secuenciales.deps.json
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio10_secuenciales\bin\Debug\net7.0\Ejercicio10_secuenciales.runtimeconfig.json
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio10_secuenciales\bin\Debug\net7.0\Ejercicio10_secuenciales.dll
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio10_secuenciales\bin\Debug\net7.0\Ejercicio10_secuenciales.pdb
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio10_secuenciales\obj\Debug\net7.0\Ejercicio10_secuenciales.csproj.AssemblyReference.cache
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio10_secuenciales\obj\Debug\net7.0\Ejercicio10_secuenciales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio10_secuenciales\obj\Debug\net7.0\Ejercicio10_secuenciales.AssemblyInfoInputs.cache
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio10_secuenciales\obj\Debug\net7.0\Ejercicio10_secuenciales.AssemblyInfo.cs
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio10_secuenciales\obj\Debug\net7.0\Ejercicio10_secuenciales.csproj.CoreCompileInputs.cache
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio10_secuenciales\obj\Debug\net7.0\Ejercicio10_secuenciales.dll
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio10_secuenciales\obj\Debug\net7.0\refint\Ejercicio10_secuenciales.dll
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio10_secuenciales\obj\Debug\net7.0\Ejercicio10_secuenciales.pdb
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio10_secuenciales\obj\Debug\net7.0\Ejercicio10_secuenciales.genruntimeconfig.cache
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio10_secuenciales\obj\Debug\net7.0\ref\Ejercicio10_secuenciales.dll

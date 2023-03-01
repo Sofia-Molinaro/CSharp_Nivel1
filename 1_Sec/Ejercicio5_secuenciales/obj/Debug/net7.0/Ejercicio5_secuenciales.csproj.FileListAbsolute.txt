@@ -1,0 +1,15 @@
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio5_secuenciales\obj\Debug\net7.0\Ejercicio5_secuenciales.csproj.AssemblyReference.cache
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio5_secuenciales\obj\Debug\net7.0\Ejercicio5_secuenciales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio5_secuenciales\obj\Debug\net7.0\Ejercicio5_secuenciales.AssemblyInfoInputs.cache
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio5_secuenciales\obj\Debug\net7.0\Ejercicio5_secuenciales.AssemblyInfo.cs
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio5_secuenciales\obj\Debug\net7.0\Ejercicio5_secuenciales.csproj.CoreCompileInputs.cache
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio5_secuenciales\bin\Debug\net7.0\Ejercicio5_secuenciales.exe
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio5_secuenciales\bin\Debug\net7.0\Ejercicio5_secuenciales.deps.json
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio5_secuenciales\bin\Debug\net7.0\Ejercicio5_secuenciales.runtimeconfig.json
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio5_secuenciales\bin\Debug\net7.0\Ejercicio5_secuenciales.dll
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio5_secuenciales\bin\Debug\net7.0\Ejercicio5_secuenciales.pdb
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio5_secuenciales\obj\Debug\net7.0\Ejercicio5_secuenciales.dll
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio5_secuenciales\obj\Debug\net7.0\refint\Ejercicio5_secuenciales.dll
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio5_secuenciales\obj\Debug\net7.0\Ejercicio5_secuenciales.pdb
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio5_secuenciales\obj\Debug\net7.0\Ejercicio5_secuenciales.genruntimeconfig.cache
+C:\Users\Giuli\OneDrive\Escritorio\CSharp\1_Secuenciales\Ejercicio5_secuenciales\obj\Debug\net7.0\ref\Ejercicio5_secuenciales.dll
